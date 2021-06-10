@@ -34,7 +34,7 @@ nav ul li a {
 nav ul li a:hover {
 }
 .banner-section {
-  background: url("../images/banner.jpg");
+  background: url("./images/banner.jpg");
   background-repeat: no-repeat; /* min-width: 100vh; */
   background-size: cover;
 }
